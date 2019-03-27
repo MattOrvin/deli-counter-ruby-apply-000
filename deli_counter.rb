@@ -15,7 +15,7 @@ end
 
 def take_a_number(katz_deli, name)
   katz_deli << name
-  new_line = "Welcome, #{name}. ou are number #{katz_deli.length} in line."
+  new_line = "Welcome, #{name}. You are number #{katz_deli.length} in line."
 puts new_line
 end
 
